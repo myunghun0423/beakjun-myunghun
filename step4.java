@@ -53,7 +53,7 @@ public class Main {
             b++; //while문 돌릴때마다 초기화한 값 증가
 
             if (c == a) { //처음 입력값과 개로운 변수가 같으면 반복문 종료
-                break;
+                break; //블로그 참조
             }
 
 
