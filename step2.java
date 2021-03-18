@@ -10,15 +10,15 @@ public class Main {
 		 int A = sc.nextInt(); //각각 1,2 , 10,2 , 5,5 받음
 		 int B = sc.nextInt();
 		
-		if(A>B) 
+		if(A>B){
 			System.out.println(">"); //각 비교결과에 맞게 부호 출력 조건문 작성
-		else if(A<B)
+		}else if(A<B){
 			System.out.println("<");
-		else
+		}else{
 			System.out.println("==");
 	}
 }
-
+}
 //백준 9498번
 
 import java.util.Scanner;
