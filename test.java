@@ -1,2 +1,0 @@
-# beakjun-myunghun
-beakjoon coding
