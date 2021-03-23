@@ -50,7 +50,7 @@ public class Main{
             char ch = st.charAt(i);
 
             if(array[ch - 'a'] == -1){ //array 원소값이 -1 인 경우 초기화
-                array[ch - 'a'] = i;
+                array[ch - 'a'] = i; //25 - 0 = 25
             }
         }
         for(int val : array){
